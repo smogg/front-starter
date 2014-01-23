@@ -1,0 +1,21 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "devDependancies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "load-grunt-tasks": "~0.2.0",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-coffee": "~0.8.2",
+    "grunt-contrib-uglify": "~0.3.1",
+    "grunt-contrib-imagemin": "~0.5.0",
+    "grunt-browser-sync": "~0.5.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-sass": "~0.10.0",
+    "node-bourbon": "~1.0.0"
+  },
+  "author": "Oskar Zabik",
+  "author_uri": "oskar.zabik@gmail.com"
+}
